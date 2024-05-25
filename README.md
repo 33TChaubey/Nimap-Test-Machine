@@ -1,5 +1,8 @@
 # Nimap Test Project
 
+![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)
+![Django REST Framework Logo](https://www.django-rest-framework.org/img/logo.png)
+
 ## Setup Instructions
 
 1. Navigate to the project directory:
@@ -37,11 +40,3 @@
 
 - Clients: [http://localhost:8000/api/clients/](http://localhost:8000/api/clients/)
 - Projects: [http://localhost:8000/api/projects/](http://localhost:8000/api/projects/)
-
-## Screenshots
-
-### Django Logo
-![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png)
-
-### Django REST Framework Logo
-![Django REST Framework Logo](https://www.django-rest-framework.org/img/logo.png)
