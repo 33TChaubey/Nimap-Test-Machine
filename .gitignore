@@ -1,0 +1,5 @@
+\migrations
+.my_pgpass
+.my_pgpasss
+\venv
+\__pycache__
