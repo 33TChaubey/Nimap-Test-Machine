@@ -24,13 +24,16 @@
     ```bash
     pip3 install -r requirements.txt
     ```
-
+2. Create a virtual environment:
+    ```bash
+    Uses a Postgres Database As per Documentation
+    ```
 5. Apply database migrations:
     ```bash
     python3 manage.py makemigrations
     python3 manage.py migrate
     ```
-
+    
 6. Run the development server:
     ```bash
     python3 manage.py runserver
